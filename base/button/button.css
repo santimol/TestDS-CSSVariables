@@ -1,0 +1,9 @@
+:root{
+ --color: #f0f0f0f0;
+}
+
+button.library-button{
+    font-size: 1.25rem;
+    background-color: var(--color);
+    color: black;
+}
